@@ -18,6 +18,7 @@ This project performs an exploratory data analysis (EDA) on renewable energy sys
 ## 📥 Data Sources 
 
 This project uses publicly available datasets related to renewable energy systems. These datasets provide information about energy production, consumption, and capacity across different renewable energy types.
+https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems/data
 
 ## 🔖 Key Features of the Notebook 
 
@@ -47,6 +48,3 @@ This project uses publicly available datasets related to renewable energy system
 - **Matplotlib and Seaborn**: For creating visualizations.
 - **NumPy**: For numerical operations.
 - **Jupyter Notebook**: For running and documenting the analysis.
-
-Dataset source: 
-https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems/data
